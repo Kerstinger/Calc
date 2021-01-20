@@ -1,0 +1,15 @@
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\bin\Debug\СИП32318 Вейдаш Калькулятор.exe.config
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\bin\Debug\СИП32318 Вейдаш Калькулятор.exe
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\bin\Debug\СИП32318 Вейдаш Калькулятор.pdb
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор.csprojAssemblyReference.cache
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\MainWindow.g.cs
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\App.g.cs
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор_MarkupCompile.cache
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор_MarkupCompile.lref
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\MainWindow.baml
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор.g.resources
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318_Вейдаш_Калькулятор.Properties.Resources.resources
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор.csproj.GenerateResource.cache
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор.exe
+C:\Users\Kerstinger\source\repos\СИП32318 Вейдаш Калькулятор\СИП32318 Вейдаш Калькулятор\obj\Debug\СИП32318 Вейдаш Калькулятор.pdb
